@@ -1,0 +1,16 @@
+p {
+    background-color: rgb(255, 93, 120);
+    font-family: 'verdana', 'DejaVu Sans', 'sans serif';  
+}
+div#number2 {
+    color: #00f;
+    font-size: 32px;   
+}
+p.paragraph-large {
+    font-size: 24px;
+}
+div#number4 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
